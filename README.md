@@ -1,5 +1,5 @@
 # Diagnostic-EgaPro
-Dans ce projet, nous vous proposons un workflow ETL avec KNIME qui vous permettra d'automatiser la création d'un rapport diagnostique sur l'égalité professionnelle
+Dans ce projet, je propose un workflow ETL avec KNIME pour automatiser la création d'un rapport diagnostique sur l'égalité professionnelle
 
 Indicateurs choisis:
 1. Qualification
